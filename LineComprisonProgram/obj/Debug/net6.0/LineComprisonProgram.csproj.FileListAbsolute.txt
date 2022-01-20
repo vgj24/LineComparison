@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\LineComprisonProgram\bin\Debug\net6.0\LineComprisonProgram.exe
+C:\Users\vgj24\source\repos\LineComprisonProgram\bin\Debug\net6.0\LineComprisonProgram.deps.json
+C:\Users\vgj24\source\repos\LineComprisonProgram\bin\Debug\net6.0\LineComprisonProgram.runtimeconfig.json
+C:\Users\vgj24\source\repos\LineComprisonProgram\bin\Debug\net6.0\LineComprisonProgram.dll
+C:\Users\vgj24\source\repos\LineComprisonProgram\bin\Debug\net6.0\ref\LineComprisonProgram.dll
+C:\Users\vgj24\source\repos\LineComprisonProgram\bin\Debug\net6.0\LineComprisonProgram.pdb
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.dll
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\ref\LineComprisonProgram.dll
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.pdb
+C:\Users\vgj24\source\repos\LineComprisonProgram\obj\Debug\net6.0\LineComprisonProgram.genruntimeconfig.cache
